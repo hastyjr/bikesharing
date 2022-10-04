@@ -35,5 +35,32 @@ The results of the analysis are as follows:
 ![Citibike Checkout Times for Users & Gender](https://github.com/hastyjr/bikesharing/blob/main/Resources/images/Screen%20Shot%202022-10-03%20at%2022.40.59.png)
 
 ## Summary
+In Summary: 
+The results of the analysis show that there is a high demand for bikes in NYC. 
+The number of rides per hour is highest during the morning and evening rush hours. 
 
-The results of the analysis show that there is a high demand for bikes in NYC. The number of rides per hour is highest during the morning and evening rush hours. The number of rides per hour is lowest during the middle of the night. The number of rides per hour is highest during the summer months. The number of rides per hour is lowest during the winter months. The number of rides per hour is highest during the weekdays. The number of rides per hour is lowest during the weekends. The number of rides per day is highest during the summer months. The number of rides per day is lowest during the winter months. The number of rides per day is highest during the weekdays. The number of rides per day is lowest during the weekends. Provided that the number of rides per day is highest during the summer months and the number of rides per day is highest during the weekdays, this business would make most of its profits during the summer months on the weekdays.
+The number of rides per hour is lowest during the middle of the night. 
+The number of rides per hour is highest during the summer months. 
+
+The number of rides per hour is lowest during the winter months. 
+The number of rides per hour is highest during the weekdays. 
+
+The number of rides per hour is lowest during the weekends. 
+The number of rides per day is highest during the summer months. 
+
+The number of rides per day is lowest during the winter months. 
+The number of rides per day is highest during the weekdays. 
+
+The number of rides per day is lowest during the weekends. 
+The number of rides per day is highest during the summer months and the number of rides per day is highest during the weekdays.
+
+Provided that the number of rides per day is highest during the summer months and the number of rides per day is highest during the weekdays, this business would make most of its profits during the summer months on the weekdays.
+
+![Bike Analysis](https://github.com/hastyjr/bikesharing/blob/main/Resources/images/Screen%20Shot%202022-10-04%20at%2001.43.01.png)
+
+
+One other area to consider is the looking deeper into the the Bike Analysis. Below you will find that Bike repairs and maintenance are the highest during the summer months. This could be a good indicator that the bikes have more wear and tear in the summer months as opposed to the winder months.
+
+The other part is the actual Bike Utilization. Understanding what this graph shows is important. It shows that there are some outlier bikeID's that are often used more often than not. There could be some deeper analysis on what this looks like. Some examples would be where are bikes utilized the most? Are they utilized in the same areas? Are they utilized by the same people? Are they utilized by the same people at the same time? Are they utilized by the same people at the same time in the same areas? Which areas are more prone to bike repairs than others? 
+
+All of this data tells a story that while the data shows that there is a high demand for bikes in NYC and it can very well be profitable, there are some areas that need to be looked at more closely, especially when it comes to the bikes repairs and maintenance.

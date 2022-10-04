@@ -34,12 +34,6 @@ The results of the analysis are as follows:
 ### Checkout Citibike Checkout Times for Users & Gender
 ![Citibike Checkout Times for Users & Gender](https://github.com/hastyjr/bikesharing/blob/main/Resources/images/Screen%20Shot%202022-10-03%20at%2022.40.59.png)
 
-
-
-
-### Checkout 
-[...]
-
 ## Summary
 
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+The results of the analysis show that there is a high demand for bikes in NYC. The number of rides per hour is highest during the morning and evening rush hours. The number of rides per hour is lowest during the middle of the night. The number of rides per hour is highest during the summer months. The number of rides per hour is lowest during the winter months. The number of rides per hour is highest during the weekdays. The number of rides per hour is lowest during the weekends. The number of rides per day is highest during the summer months. The number of rides per day is lowest during the winter months. The number of rides per day is highest during the weekdays. The number of rides per day is lowest during the weekends. Provided that the number of rides per day is highest during the summer months and the number of rides per day is highest during the weekdays, this business would make most of its profits during the summer months on the weekdays.

@@ -22,17 +22,17 @@ The results of the analysis are as follows:
 
 ### Citibike August Overview
 
-![Checkout Citibike August Overview]()
+![Checkout Citibike August Overview](https://github.com/hastyjr/bikesharing/blob/main/Resources/images/Screen%20Shot%202022-10-03%20at%2022.40.03.png)
 
 ### Trip Overview
-![Checkout Trip Overview]()
+![Checkout Trip Overview](https://github.com/hastyjr/bikesharing/blob/main/Resources/images/Screen%20Shot%202022-10-03%20at%2022.40.21.png)
 
 ### Checkout Citibike Gender Analysis
-![Checkout Citibike Gender Analysis]()
+![Checkout Citibike Gender Analysis](https://github.com/hastyjr/bikesharing/blob/main/Resources/images/Screen%20Shot%202022-10-03%20at%2022.40.46.png)
 
 
 ### Checkout Citibike Checkout Times for Users & Gender
-![Citibike Checkout Times for Users & Gender]()
+![Citibike Checkout Times for Users & Gender](https://github.com/hastyjr/bikesharing/blob/main/Resources/images/Screen%20Shot%202022-10-03%20at%2022.40.59.png)
 
 
 
